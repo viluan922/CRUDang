@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "Luanne",
+      "category": "Songoku",
+      "freshness": "Second Hand ",
+      "price": 111,
+      "date": "2022-10-19T17:00:00.000Z",
+      "comment": "qweewqewq",
+      "id": 8
+    },
+    {
+      "productName": "văn",
+      "category": "GoHan",
+      "freshness": "Brand New ",
+      "price": 1000,
+      "date": "2022-10-20T17:00:00.000Z",
+      "comment": "dsadasdsadsadsadsadsadasdsadsadsadasdasdadsads",
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
